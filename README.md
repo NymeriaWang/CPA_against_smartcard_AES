@@ -1,2 +1,3 @@
 # CPA_against_smartcard_AES
-Using CPA to recover the key from power consumption traces captured from a smartcard. The experimental smartcard is implemented to an AES-128.
+Important!!!!   See read Lab_DPA.pdf file first and follow the guidance to understand how CPA works.
+The traces are in the drive: https://drive.google.com/drive/folders/1jRAqgB7uFTwSzWeL9Yzb4-4ZahT5rRWL?usp=sharing
